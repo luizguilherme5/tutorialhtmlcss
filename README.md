@@ -76,6 +76,18 @@ Um conjunto de regras CSS consiste de um seletor e um bloco de declaração:
 ![Imagem da sintaxe](https://www.w3schools.com/css/selector.gif)
 
 ## Propriedades principais
+```
+* font-family
+* font-size
+* font-weight
+* color
+* background-color
+* padding
+* margin
+* border
+* width
+* height
+```
 
 ### Exemplo de uma tag de estilo no HTML
 ```
